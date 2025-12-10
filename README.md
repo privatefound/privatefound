@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=privatefound&theme=solarized-dark&hide_border=true&hide_total_contributions=true)](https://git.io/streak-stats)
 <!--
 **privatefound/privatefound** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
