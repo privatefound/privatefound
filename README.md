@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=header&background=00000000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7ecc7e&height=60&section=header&background=00000000" width="100%"/>
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@ Mission: "There is no patch for human stupidity."
 <br />
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=60&section=footer&background=00000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7ecc7e&height=60&section=footer&background=00000000" width="100%"/>
 </div>
 
 <div align="center">
@@ -69,5 +69,5 @@ Mission: "There is no patch for human stupidity."
 ▐█▪·•▐█•█▌▐█▌ ███ ▐█ ▪▐▌ ▐█▌·▐█▄▄▌██▌.▐█▌.▐▌▐█▄█▌██▐█▌██. ██ 
 .▀   .▀  ▀▀▀▀. ▀   ▀  ▀  ▀▀▀  ▀▀▀ ▀▀▀  ▀█▄▀▪ ▀▀▀ ▀▀ █▪▀▀▀▀▀• 
 </pre>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=100&section=footer&background=00000000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7ecc7e&height=100&section=footer&background=00000000" width="100%"/>
 </div>
