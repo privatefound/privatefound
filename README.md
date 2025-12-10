@@ -29,9 +29,8 @@ Mission: "There is no patch for human stupidity."
 
 <div align="center">
 <h2>Statistics</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=privatefound&theme=dark&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideNums=00FF00&currStreakNum=00FF00" alt="Streak Stats" />
-</div>
+  
+[![privatefound's GitHub stats](https://github-readme-stats.vercel.app/api?username=privatefound)]
 
 <br />
 
