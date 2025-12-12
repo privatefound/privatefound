@@ -41,7 +41,7 @@ Mission: "There is no patch for human stupidity."
 <a href="https://archlinux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/arch-linux.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
 <a href="https://www.python.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/python.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/docker.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
-<a href="https://github.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/github-light.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
+<a href="[https://o.com/](https://ollama.com/)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ollama-dark.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
 <a href="https://vscodium.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/vscode.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
 <a href="https://nodejs.org/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/nodejs.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
 <a href="https://www.zabbix.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/zabbix.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
@@ -51,8 +51,6 @@ Mission: "There is no patch for human stupidity."
 <a href="https://www.sophos.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/sophos.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
 <a href="https://www.elastic.co/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/elasticsearch.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/hugging-face.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/html-light.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
-<a href="#" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/css-light.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
 <a href="https://www.zapteam.it/" target="_blank"><img src="https://www.zapteam.it/assets/img/zapteam_logo-nbg3.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
 </marquee>
 </div>
