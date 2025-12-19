@@ -30,7 +30,7 @@ Mission: "There is no patch for human stupidity."
 <div align="center">
 <h2>Statistics</h2>
   
-[![privatefound's GitHub stats](https://github-readme-stats.vercel.app/api?username=privatefound)]
+![privatefound's GitHub stats](https://github-readme-stats.vercel.app/api?username=privatefound)
 
 <br />
 
