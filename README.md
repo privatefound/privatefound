@@ -28,13 +28,6 @@ Mission: "There is no patch for human stupidity."
 </div>
 
 <div align="center">
-<h2>Statistics</h2>
-  
-![privatefound's GitHub stats](https://github-readme-stats.vercel.app/api?username=privatefound)
-
-<br />
-
-<div align="center">
 <h2>Technologies</h2>
 <marquee behavior="scroll" direction="left" scrollamount="10">
 <a href="https://www.kernel.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/linux.png" style="width: 50px; height: 50px; margin: 0 10px;" /></a>
