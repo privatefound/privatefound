@@ -18,7 +18,6 @@ Shell: ZSH
 Uptime: Caffeine-Dependent 🍬
 Location: Italy 🇮🇹
 Skills: Network Security, Pentesting, Python, Web Sec
-Mission: "There is no patch for human stupidity."
 ```
 
 <br />
