@@ -14,8 +14,6 @@
 User: privatefound
 Role: Cyber Security Specialist & Pentester
 OS: Arch Linux (BTW)
-Shell: ZSH
-Uptime: Caffeine-Dependent 🍬
 Location: Italy 🇮🇹
 Skills: Network Security, Pentesting, Python, Web Sec
 ```
